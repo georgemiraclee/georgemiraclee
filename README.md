@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georgemiraclee
 - 👀 I’m interested in IT and 4.0 industries
-- 🌱 I’m currently learning html css js,phyton,ui/ux
+- 🌱 I’m currently learning html css,phyton,ui/ux
 
 
 <!---
